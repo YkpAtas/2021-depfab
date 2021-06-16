@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342137688822",
+    "firebase_url": "https://debfabdatabase-default-rtdb.firebaseio.com",
+    "project_id": "debfabdatabase",
+    "storage_bucket": "debfabdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342137688822:android:0f383a9cf4e900b80a12d7",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342137688822-q3fv2lovh4o3tk0h0kbefhlptpa6idr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_fB93uwwpmRR1Ov_Xf6V7WUlsdPFyRIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342137688822-q3fv2lovh4o3tk0h0kbefhlptpa6idr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
